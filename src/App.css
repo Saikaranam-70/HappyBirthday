@@ -12,7 +12,7 @@ body {
   justify-content: center;
   height: 100vh;
   position: relative;
-  background: url('images/cake.gif') center/cover no-repeat;
+  background: url('/images/cake.gif') center/cover no-repeat;
 }
 
 .banner {
